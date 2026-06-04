@@ -1,5 +1,5 @@
 # Jupyter Notebook files - keep HTML versions only
-*.ipynb
+!*.ipynb
 .ipynb_checkpoints/
 
 # Temporary files
